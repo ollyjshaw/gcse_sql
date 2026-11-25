@@ -1,0 +1,5 @@
+abby.db
+abby.db-journal
+.DS_Store
+abby.db-wal
+abby.db-shm

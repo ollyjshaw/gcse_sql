@@ -1,0 +1,2 @@
+-- Kata 01: Show every field of every record in the Track table.
+-- Write your SQL below, then run:  ./check.sh 1

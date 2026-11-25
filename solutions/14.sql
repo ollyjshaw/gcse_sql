@@ -1,0 +1,3 @@
+DROP TABLE Download;
+DROP TABLE User;
+DROP TABLE Track;
