@@ -4,6 +4,8 @@
 
 From here on, the katas **change** the data. If you make a mess of your own copy, `./setup.sh` puts it back.
 
+**Before you start:** run `./setup.sh` so your data matches the examples.
+
 ## Worked example
 
 A new user joins.

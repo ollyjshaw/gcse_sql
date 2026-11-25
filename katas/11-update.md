@@ -2,6 +2,8 @@
 
 **You'll learn:** changing existing records
 
+**Before you start:** run `./setup.sh` so your data matches the examples.
+
 ## Worked example
 
 Track 7 goes up in price to £0.99.

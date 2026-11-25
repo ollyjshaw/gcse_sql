@@ -2,12 +2,13 @@
 
 ## How every kata works
 
-1. Read the kata (this folder).
-2. Try the **worked example** yourself. Open the database with `./open.sh` and type it in. Don't copy and paste: typing it is how it sticks.
-3. Do the **your turn** task. Write your SQL in the matching file in `answers/` (kata 03 goes in `answers/03.sql`).
-4. Check it: `./check.sh 3`
-5. If it says `NOT YET`, read what it tells you, fix it, check again.
-6. Stuck? There's a hint at the bottom of each kata. The model answers are in `solutions/`, but try properly first.
+1. Run `./setup.sh` so your database is back to the starting data. Some katas change or delete data, and the examples assume you're starting fresh.
+2. Read the kata (this folder).
+3. Try the **worked example** yourself. Open the database with `./open.sh` and type it in. Don't copy and paste: typing it is how it sticks.
+4. Do the **your turn** task. Write your SQL in the matching file in `answers/` (kata 03 goes in `answers/03.sql`).
+5. Check it: `./check.sh 3`
+6. If it says `NOT YET`, read what it tells you, fix it, check again.
+7. Stuck? There's a hint at the bottom of each kata. The model answers are in `solutions/`, but try properly first.
 
 You can't break anything. If the database gets in a mess, run `./setup.sh` and it's brand new again. The checker always uses its own fresh copy, so it doesn't matter what you've done to yours.
 

@@ -2,6 +2,8 @@
 
 **You'll learn:** totals. Most GCSE specs don't require this, but it's how real databases answer questions like "what's popular?"
 
+**Before you start:** run `./setup.sh` so your data matches the examples.
+
 ## Worked example
 
 How many downloads are there altogether?

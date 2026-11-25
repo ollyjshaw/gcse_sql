@@ -2,6 +2,8 @@
 
 **You'll learn:** `DROP TABLE`, and how to get rid of the whole thing
 
+**Before you start:** run `./setup.sh` so your data matches the examples.
+
 ## Worked example
 
 Make a throwaway table, look at it, then get rid of it.

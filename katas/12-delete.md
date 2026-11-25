@@ -2,6 +2,8 @@
 
 **You'll learn:** removing records, and why foreign keys matter
 
+**Before you start:** run `./setup.sh` so your data matches the examples.
+
 ## Worked example
 
 Track 10 ("Static Heart") is withdrawn from the shop. Nobody ever downloaded it.
