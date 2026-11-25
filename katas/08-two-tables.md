@@ -1,5 +1,7 @@
 # Kata 08: Two tables at once
 
+**Before you start:** run `./setup.sh` so your data matches the examples.
+
 **You'll learn:** joining tables using a foreign key
 
 ## Why

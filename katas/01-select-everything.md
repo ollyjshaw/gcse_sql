@@ -1,5 +1,7 @@
 # Kata 01: SELECT everything
 
+**Before you start:** run `./setup.sh` so your data matches the examples.
+
 **You'll learn:** `SELECT * FROM`
 
 ## Worked example

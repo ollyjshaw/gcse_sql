@@ -1,8 +1,8 @@
 # Kata 11: UPDATE
 
-**You'll learn:** changing existing records
-
 **Before you start:** run `./setup.sh` so your data matches the examples.
+
+**You'll learn:** changing existing records
 
 ## Worked example
 

@@ -1,5 +1,7 @@
 # Kata 07: LIKE and wildcards
 
+**Before you start:** run `./setup.sh` so your data matches the examples.
+
 **You'll learn:** searching for part of some text
 
 ## Worked example

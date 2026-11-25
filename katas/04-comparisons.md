@@ -1,5 +1,7 @@
 # Kata 04: Comparisons
 
+**Before you start:** run `./setup.sh` so your data matches the examples.
+
 **You'll learn:** `<  >  <=  >=  <>`
 
 ## Worked example

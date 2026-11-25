@@ -1,8 +1,8 @@
 # Kata 14: Clean up
 
-**You'll learn:** `DROP TABLE`, and how to get rid of the whole thing
-
 **Before you start:** run `./setup.sh` so your data matches the examples.
+
+**You'll learn:** `DROP TABLE`, and how to get rid of the whole thing
 
 ## Worked example
 

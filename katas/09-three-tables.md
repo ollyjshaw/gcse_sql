@@ -1,5 +1,7 @@
 # Kata 09: Three tables
 
+**Before you start:** run `./setup.sh` so your data matches the examples.
+
 **You'll learn:** joining all three tables
 
 ## Worked example

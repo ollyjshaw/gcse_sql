@@ -1,5 +1,7 @@
 # Kata 03: WHERE
 
+**Before you start:** run `./setup.sh` so your data matches the examples.
+
 **You'll learn:** picking which records (rows) to show
 
 ## Worked example

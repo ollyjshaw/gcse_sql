@@ -1,8 +1,8 @@
 # Kata 13 (stretch): COUNT and GROUP BY
 
-**You'll learn:** totals. Most GCSE specs don't require this, but it's how real databases answer questions like "what's popular?"
-
 **Before you start:** run `./setup.sh` so your data matches the examples.
+
+**You'll learn:** totals. Most GCSE specs don't require this, but it's how real databases answer questions like "what's popular?"
 
 ## Worked example
 

@@ -1,8 +1,8 @@
 # Kata 12: DELETE
 
-**You'll learn:** removing records, and why foreign keys matter
-
 **Before you start:** run `./setup.sh` so your data matches the examples.
+
+**You'll learn:** removing records, and why foreign keys matter
 
 ## Worked example
 

@@ -1,5 +1,7 @@
 # Kata 02: Choosing fields
 
+**Before you start:** run `./setup.sh` so your data matches the examples.
+
 **You'll learn:** picking which fields to show
 
 ## Worked example

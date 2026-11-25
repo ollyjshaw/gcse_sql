@@ -1,5 +1,7 @@
 # Kata 06: ORDER BY
 
+**Before you start:** run `./setup.sh` so your data matches the examples.
+
 **You'll learn:** sorting results
 
 ## Worked example

@@ -1,10 +1,10 @@
 # Kata 10: INSERT
 
+**Before you start:** run `./setup.sh` so your data matches the examples.
+
 **You'll learn:** adding a new record
 
 From here on, the katas **change** the data. If you make a mess of your own copy, `./setup.sh` puts it back.
-
-**Before you start:** run `./setup.sh` so your data matches the examples.
 
 ## Worked example
 

@@ -1,5 +1,7 @@
 # Kata 05: AND and OR
 
+**Before you start:** run `./setup.sh` so your data matches the examples.
+
 **You'll learn:** combining conditions
 
 ## Worked example
